@@ -9,7 +9,7 @@ Created on Wed May 10 23:17:15 2017
 import os
 os.chdir(r'C:\Users\JH\Dropbox\TextMining\PainNetwork')
 
-
+import warnings
 
 import numpy as np
 import matplotlib.pyplot as plt
